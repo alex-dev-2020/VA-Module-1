@@ -25,4 +25,4 @@
 ### Урок 5
 
 ### Практические задания первого модуля
- * [Создан branch `sales-subsystem` и подкаталог "Продажи"](https://github.com/alex-dev-2020/VA-Module-1/commit/26b5e0bf6245db8e2de2261b44571d4256051a7e) - просто создан branch и каталог, 
+ * [Создан branch `sales-subsystem` и подкаталог "Продажи"](https://github.com/alex-dev-2020/VA-Module-1/commit/26b5e0bf6245db8e2de2261b44571d4256051a7e) - просто создан branch и подкаталог, 
